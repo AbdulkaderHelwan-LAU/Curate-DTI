@@ -22,8 +22,8 @@ abstract: >-
   Python software for constructing, validating and documenting the Curate-DTI
   construct-aware, multi-endpoint drug--protein bioactivity dataset from frozen
   BindingDB and reviewed UniProtKB/Swiss-Prot inputs.
-repository-code: https://github.com/linah03/Curate-DTI
-url: https://github.com/linah03/Curate-DTI
+repository-code: https://github.com/lina-abouabbas/Curate-DTI
+url: https://github.com/lina-abouabbas/Curate-DTI
 license: MIT
 keywords:
   - BindingDB
