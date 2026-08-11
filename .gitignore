@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Raw and processed data
+raw_inputs/
+preprocessing/
+processed/
+release/
+data/
+*.parquet
+*.tsv
+*.fasta
+*.fasta.gz
+*.pkl
+*.pickle
+
+# Reports, logs and batch outputs generated locally
+logs/
+*.log
+*.out
+*.err
+slurm-*.out
+endpoint_count_verification.json
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the archived software release, the
+  Curate-DTI dataset and the associated Data Descriptor.
+type: software
+title: Curate-DTI preprocessing and validation software
+version: 1.0.0
+authors:
+  - family-names: Abou-Abbas
+    given-names: Lina
+  - family-names: Mhanna
+    given-names: Nour
+  - family-names: Bazzi
+    given-names: Hasan
+  - family-names: El Hajj
+    given-names: Sleiman
+  - family-names: Helwan
+    given-names: Abdulkader
+  - family-names: Henni
+    given-names: Khadidja
+abstract: >-
+  Python software for constructing, validating and documenting the Curate-DTI
+  construct-aware, multi-endpoint drug--protein bioactivity dataset from frozen
+  BindingDB and reviewed UniProtKB/Swiss-Prot inputs.
+repository-code: https://github.com/linah03/Curate-DTI
+url: https://github.com/linah03/Curate-DTI
+license: MIT
+keywords:
+  - BindingDB
+  - drug--target interaction
+  - drug--protein bioactivity
+  - data curation
+  - protein constructs
